@@ -1,5 +1,7 @@
 # My Board
 
+**Live:** [my-board.vercel.app](https://my-board.vercel.app) &nbsp;·&nbsp; *(update this link once deployed)*
+
 A personal task and calendar board I built for myself. Lets me see what's on my plate for the month, track task statuses, and let people submit requests directly to my board.
 
 ## What it does
